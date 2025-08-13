@@ -600,6 +600,7 @@ mod type_registry;
 
 mod impls {
     mod alloc;
+    mod bevy_ecs;
     mod bevy_platform;
     mod core;
     mod foldhash;
